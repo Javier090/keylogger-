@@ -1,9 +1,0 @@
-# Editor
-.vs
-
-# Build
-Debug
-Release
-
-# Logs
-logged.txt
